@@ -1,0 +1,23 @@
+.vercel
+# dependencies
+node_modules/
+
+# build
+dist/
+
+# vite
+.vite/
+
+# env
+.env
+.env.local
+.env.production
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
