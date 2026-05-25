@@ -226,7 +226,7 @@ function App() {
                 We're crafting <br />
                 emotional <br />
                 experiences aimed <br />
-                at improvingbr results
+                at improving results
               </h3>
             </div>
             <div className="right"></div>
